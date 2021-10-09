@@ -2,3 +2,6 @@ name = "Flags"
 uuid = "bf75db88-1567-471a-8514-505ab96c2ee1"
 authors = ["a-poor <a-poor@users.noreply.github.com>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
